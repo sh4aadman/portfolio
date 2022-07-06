@@ -44,10 +44,20 @@ p{
     background-repeat: no-repeat;
     background-position: center;
     font-weight: 800;
+    box-shadow: 5px 5px 40px grey;
 }
 .Grenades{
     background-image: url(gg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     font-weight: 800;
+    box-shadow: 5px 5px 40px grey;
+}
+footer p{
+    text-align: center;
+    font-weight: 200;
+}
+header p{
+    text-align: center;
+    font-weight: 200;
 }
