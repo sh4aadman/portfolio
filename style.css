@@ -23,6 +23,7 @@ p{
 }
 section{
     display: flex;
+    margin: 5%;
 }
 .container img{
     width: 100%;
